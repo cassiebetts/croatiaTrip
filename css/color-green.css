@@ -2,29 +2,29 @@
 ----- PRIMARY
 \ +=+=+=+=+=+=+=+=+=+=+=+=+=+=+= */
 a, a:hover, a:focus, .navbar-default .navbar-nav li .fa-home, #timer div::before, .subscribe .btn-box::before, .item-info h6 strong, .svg.arrPrime, .day ul li i, .prime, .day .delight i, #testimonial .heading h4, #testimonial .heading::before, #testimonial .heading::after, .subscribe .submit::before {
-	color: #6c2dc7;
+	color: #000000;
 }
 .svg.arrPrime path, #galleryCarousel .zoom .svg path {
-	fill: #6c2dc7;
+	fill: #000000;
 }
 /* Background PRIMARY */
 .btn-primary, .navbar-default .navbar-nav > li:hover > a, .navbar-default .navbar-nav > li.active > a, .BGprime, .btn-light:hover, .owl-theme .owl-controls .owl-buttons div, .day:hover .dayNum, .owl-carousel .item .item-header i, .bgcolor, #upcoming .item a, #upcoming.owl-theme .owl-controls .owl-buttons div, ul.social li a:hover, .additional-info span i, .modal-header, .btn-default:hover, .round, .opt .day .delight, .info-box.option.color .counter #timer, #image-slider .carousel-caption h3, #travelInfo.BGprime, h1 small::before, .subscribe .right, .item a.zoom {
-	background-color: #6c2dc7;
+	background-color: #000000;
 }
 /* use rgba values here */
 .BGprime.opaque, .square1.opaque, #image-slider a.carousel-control {
 	background-color: rgba(20, 86, 210, 0.5);
 }
 #contact .form-control:focus {
-	border-color: #6c2dc7;
+	border-color: #000000;
 }
 
 ::-moz-selection {
- background: #6c2dc7;
+ background: #000000;
  color: #fff;
 }
 ::selection {
-	background: #6c2dc7;
+	background: #000000;
 	color: #fff;
 }
 /* +=+=+=+=+=+=+=+=+=+=+=+=+=+=+= \

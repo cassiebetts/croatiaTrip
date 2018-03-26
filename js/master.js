@@ -1,8 +1,4 @@
-// JavaScript Document
-// Author Name: Saptarang
-// Author URI: http://www.saptarang.org
-// Themeforest: http://themeforest.net/user/saptarang?ref=saptarang
-// Creation Date: 22 Oct, 2015
+
 
 
 ( function ( $ ) {
@@ -86,7 +82,7 @@
 			msgPattern: "<div><span>{months}</span> months</div> <div><span>{days}</span> days</div> <div><span>{hours}</span> hours</div> <div><span>{minutes}</span>mins</div> <div><span>{seconds}</span> sec</div>",
 			//msgPattern: "<div><span>{years}</span> years</div> <div><span>{months}</span> months</div> <div><span>{days}</span> days</div> <div><span>{hours}</span> hours</div> <div><span>{minutes}</span>minutes</div> <div><span>{seconds}</span> seconds</div>",
 			dateStart: new Date('2013/12/21 12:00'),
-			dateEnd: new Date('April 21, 2018 14:00')
+			dateEnd: new Date('August 31, 2018 14:00')
 		});
 
 
@@ -136,7 +132,7 @@
 		  navigationText : ["<img class='svg' src='images/svg/arrow-left-s.svg' onerror='this.src='arrow-left-s.png' alt='Prev' />","<img class='svg' src='images/svg/arrow-right-s.svg' onerror='this.src='arrow-right-s.png'' alt='Next' />"],
 		  pagination: false
 	  });
-    // 
+    //
 	  // // Testimonials
 		// $('#testimonial.carousel').carousel({
 		//   	interval: 7000 // slideshow speed
