@@ -352,7 +352,7 @@ hr {
 /* +=+=+=+=+=+=+=+=+=+=+=+=+=+=+= \
 ----- HOME SLIDER
 \ +=+=+=+=+=+=+=+=+=+=+=+=+=+=+= */
-.texture {
+/* .texture {
 	position: absolute;
 	top: 0;
 	right: 0;
@@ -361,7 +361,7 @@ hr {
 	display: block;
 	background: url(../images/pattern.png) repeat 0 0;
 	z-index: 9;
-}
+} */
 #slides {
 	position: relative;
 }
