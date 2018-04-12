@@ -1,7 +1,7 @@
 // JavaScript Document
-// Author Name: Saptarang
-// Author URI: http://www.saptarang.org
-// Themeforest: http://themeforest.net/user/saptarang?ref=saptarang
+// Author Name: Cassie Betts
+// Author URI: http://www.Cassie Betts.org
+// Themeforest: http://themeforest.net/user/Cassie Betts?ref=Cassie Betts
 // Creation Date: 22 Oct, 2015
 
 /* CUSTOM PARAMETERS */
